@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-04-13T12:00:00Z",
+    "symbol": "USDJPY",
+    "timeframe": "M15",
+    "direction": "BUY",
+    "entry_price": 151.25,
+    "sl": 151.15,
+    "tp": 151.45,
+    "exit_price": 151.45,
+    "exit_reason": "TP",
+    "profit_points": 20,
+    "balance_before": 10000,
+    "balance_after": 10020
+  }
+]
